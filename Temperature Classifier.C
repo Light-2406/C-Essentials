@@ -1,9 +1,7 @@
 // Problem Statement : Considering Mangalore/Udupi's Climate entire known as Coastal Karnataka, here's a code in tulu i.e. regional language of them.
 // Note : This covers your temperature in celsius
 // Program :
-// Problem Statement : Considering Mangalore/Udupi's Climate entire known as Coastal Karnataka, here's a code in tulu i.e. regional language of them.
-// Note : This covers your temperature in celsius
-// Program :
+
 #include <stdio.h>
 int main ()
 {
